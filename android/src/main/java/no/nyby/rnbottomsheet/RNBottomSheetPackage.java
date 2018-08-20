@@ -1,4 +1,4 @@
-package com.clipsub.rnbottomsheet;
+package no.nyby.rnbottomsheet;
 
 import android.app.Activity;
 
